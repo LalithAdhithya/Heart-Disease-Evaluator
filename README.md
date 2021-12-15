@@ -1,4 +1,3 @@
-
 # Cardiac_Disease_Evaluator
 
 <h1> Dataset </h1>
@@ -20,4 +19,3 @@ So I picked Random forest and tested it on validation set for verification </p>
 <p> Api is deployed in heroku cloud Which you can check here : </p>
 
 ![Interface](https://user-images.githubusercontent.com/40850370/128129482-0848a108-e73e-4e8a-a545-f09fca4fe080.png)
-
